@@ -93,7 +93,8 @@ If you have any feedback, please reach out to us at himanshu01.dev@gmail.com
 
   
 ## 🚀 About Me
-I'm a Self-Taught Web Developer proficient in HTML, CSS, JavaScript, Bootstrap, Java and currently learning NodeJS 😉✌️
+I'm a Self-Taught Web Developer proficient in HTML, CSS, JavaScript, Bootstrap, Java and currently learning NodeJS 
+😉✌️
 
   
 ## 🔗 Links
