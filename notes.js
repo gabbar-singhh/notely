@@ -55,7 +55,7 @@ function listNotes() {
     console.log(" ");
 
     notes.forEach(element => {
-        console.table(element);
+        console.log(element.title);
     });
     console.log(" ");
 }
@@ -65,8 +65,6 @@ const readNotes = title => {
     const notes = loadNotes();
 
     const noteToBeShown = notes.find(note => note.title == title);
-
-    // console.log(noteToBeShown);
 
     if (noteToBeShown) {
         console.log(" ");
