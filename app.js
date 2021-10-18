@@ -12,22 +12,22 @@ yargs.command({
     command: 'add',
     describe: 'Add a new note',
     builder: {
-        title:{
+        title: {
             describe: "Note Title",
             //weather argument after add should be provided or not
             demandOption: true,
             type: 'string'
         },
-        body:{
+        body: {
             describe: 'Note Body',
             demandOption: true,
             type: 'string'
         }
     },
-    handler(argv){
-        notes.addNotes(argv.title , argv.body)
+    handler(argv) {
+        notes.addNotes(argv.title, argv.body)
     }
-})
+});
 
 //Creating Remove commad
 yargs.command({
@@ -40,7 +40,7 @@ yargs.command({
             type: 'string'
         }
     },
-    handler(argv){
+    handler(argv) {
         notes.removeNotes(argv.title);
     }
 })
@@ -49,12 +49,12 @@ yargs.command({
 yargs.command({
     command: 'list',
     describe: 'List your notes',
-    handler(){
+    handler() {
         notes.listNotes();
     }
 })
 
-// Creating a read command
+// Creating and reading comments
 yargs.command({
     command: 'read',
     describe: 'Read a note',
@@ -65,16 +65,16 @@ yargs.command({
             type: 'string'
         }
     },
-    handler(argv){
-       notes.readNotes(argv.title);
+    handler(argv) {
+        notes.readNotes(argv.title);
     }
 })
 
 //Creating Clear Command
 yargs.command({
     command: 'clear',
-    describe: 'Clears All Notes',
-    handler(){
+    describe: 'Clears   All Notes',
+    handler() {
         notes.clearNotes();
     }
 
