@@ -6,7 +6,7 @@ Basic Command-Line Notes Application that have basic functionality like add, rem
 
 ![App Screenshot](https://pbs.twimg.com/media/FCACAmBVQAIesma?format=png&name=medium)
 
-![App Screenshot](https://pbs.twimg.com/media/FCACAmBVQAIesma?format=png&name=medium)
+![App Screenshot](https://pbs.twimg.com/media/FCACaPCVcAYTrJ1?format=png&name=medium)
 
   
 ## Run Locally
