@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.2",
-    "validator": "^10.8.0",
     "yargs": "^12.0.2"
   }
 }
