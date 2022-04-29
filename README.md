@@ -72,6 +72,9 @@ List all the saved notes
   node app.js list
 ```
 
+## OR Watch this video below using it 😇
+https://drive.google.com/file/d/1AnmpirBYG0FKQ_hgdkubaRCQ0m95LAuu/view?usp=sharing
+
 
 
   ## Color Reference
