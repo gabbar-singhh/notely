@@ -4,9 +4,9 @@
 Basic Command-Line Notes Application that have basic functionality like add, remove, read and list notes 📝
 ## Screenshots
 
-![App Screenshot](https://pbs.twimg.com/media/FCACAmBVQAIesma?format=png&name=medium)
+![image](https://github.com/garadiya0/notely/assets/110885026/6cc6f4e2-4349-4eb5-8b0e-1b476cb1c384)
 
-![App Screenshot](https://pbs.twimg.com/media/FCACaPCVcAYTrJ1?format=png&name=medium)
+![image](https://github.com/garadiya0/notely/assets/110885026/b9896d0f-2950-4064-82c1-3bf024c43d61)
 
   
 ## Run Locally
